@@ -1,6 +1,6 @@
 {
-    "username": "2ksyrus",
-    "password": "syrusisgod",
+    "username": "life",
+    "password": "coconutmilk123",
     "autoLogin": "false",
 
     "nitroSniper": "true",
@@ -13,11 +13,11 @@
     "streamMsgBTC": "1 BTC = $",
     "streamMsgETH": "1 ETH = $",
     "streamMsgLTC": "1 LTC = $",
-    "streamURL": "https://www.twitch.tv/syrusisthebestcoder",
+    "streamURL": "https://www.twitch.tv/glo",
 
-    "prefix": "preix here",
+    "prefix": "x",
     "logDMsToConsole": "false",
     "logDelMsgsToConsole": "true",
     "logBotDelMsgsToConsole": "false",
-    "token": "token here"
+    "token": "Nzc0NzI5ODkwMjUxNTM4NDMy.X68RTw.E_Y5fn5MlOTADZNcdz_kvKGjSBQ"
 }
